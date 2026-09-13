@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/costcolor.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/plantree.tsx","./src/components/queryeditor.tsx","./src/components/suggestionspanel.tsx"],"version":"5.9.3"}
